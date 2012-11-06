@@ -1,0 +1,6 @@
+
+/atom.xml
+/index.html
+/sitemap.txt
+
+/other/2012/10/20/2213-firstblog.html
